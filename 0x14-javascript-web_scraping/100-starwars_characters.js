@@ -15,7 +15,7 @@ req.get(url + id, function (error, res, body) {
         console.log(error);
       }
       const data1 = JSON.parse(body1);
-      console.log(data1.name);
+      console.log(data1.name, 'utf 8');
     });
   }
 });
