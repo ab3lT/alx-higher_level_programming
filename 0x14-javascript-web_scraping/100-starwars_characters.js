@@ -7,7 +7,7 @@ req.get(url + id, function (error, res, body) {
   if (error) {
     console.log(error);
   }
-  const data = JSON.parse(body);
+  const data = JSON.parse(body, 'utf 8');
   const dd = data.characters;
   for (const i of dd) {
     req.get(i, function (error, res, body1) {
