@@ -5,8 +5,6 @@
 Author: Abel
 
 """
-
-
 def inherits_from(obj, a_class):
     """ check type object"""
     """A function that returns True if the object is
