@@ -2,7 +2,7 @@
 """ check type object"""
 
 """Only sub class of.
-Author: Kanneh
+Author: Abel
 
 """
 
