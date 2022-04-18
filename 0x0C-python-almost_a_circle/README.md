@@ -1,10 +1,6 @@
-# Python - Almost a circle
+# 0x0C. Python - Almost a circle
 
-<!-- [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY) -->
-
-![Image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
-
-# Concepts 
+This project is a combination of all the concepts that I have learnt in python so far. I'm doing it in preparation for the AirBnB project which is a very big part of Higher Level Programming section of the Holberton Software Engineering curriculum. It covers:
 - Import
 - Exceptions
 - Class
@@ -18,3 +14,6 @@
 - args and kwargs
 - Serialization/Deserialization
 - JSON
+
+# Resources 
+- 
